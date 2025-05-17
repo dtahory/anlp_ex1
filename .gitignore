@@ -10,6 +10,8 @@ ENV/
 .venv/
 .ENV/
 
+/doc/
+
 # macOS
 .DS_Store
 
